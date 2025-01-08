@@ -1,0 +1,19 @@
+{
+  "name": "holesky-token",
+  "version": "1.0.0",
+  "description": "https://blog.blockmagnates.com/how-to-create-and-deploy-an-erc20-token-on-the-holesky-testnet-using-hardhat-and-openzeppelin-1145546df00f",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.17"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0"
+  }
+}
