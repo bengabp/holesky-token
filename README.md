@@ -15,3 +15,5 @@ Note that the wallet will be charged a small fee during deployment so make sure 
 ```bash
 npx hardhat ignition deploy ./ignition/modules/Deploy.js --network holesky
 ```
+
+You can check my own token on holesky -> 0x386f64243fa8D8c674d945c6747aea87CE9d8ff1
